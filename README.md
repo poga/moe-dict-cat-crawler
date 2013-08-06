@@ -1,6 +1,6 @@
 #moe-dict-cat-crawler
 
-針對http://dict.revised.moe.edu.tw/分類詞典的crawler實作
+針對http://dict.revised.moe.edu.tw/ 分類詞典的crawler實作
 
 ##Usage
 
